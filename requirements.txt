@@ -1,0 +1,8 @@
+mss
+opencv-python
+ultralytics
+numpy
+pydantic
+pyyaml
+ollama
+pyttsx3
